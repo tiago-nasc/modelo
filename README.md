@@ -1,5 +1,4 @@
-
-        body {
+body {
             font-family: 'Poppins', sans-serif;
             scroll-behavior: smooth;
         }
